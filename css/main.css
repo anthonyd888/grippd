@@ -1,0 +1,93 @@
+.footer{
+	background-color: #607D8b;
+	padding: 2em;
+	margin-top: 2em;
+}
+
+.footer h1{
+	font-family: 'Allerta Stencil', sans-serif;
+	color: #fff;
+	font-size: 20px;
+	float: right;
+}
+.top-bar-section ul li  a{
+	font-family: 'Allerta Stencil', sans-serif !important;
+	font-size: 15px;
+	background-color: #607D8b;
+}
+
+.footer img{
+	width: 50%;
+	height: 50%;
+	transform:rotate(-6deg);
+}
+
+.top-bar a img{
+	margin-top: 1em;
+	width: 15%;
+	height: 15%;
+	transform:rotate(-6deg);
+}
+
+.top-bar{
+	height: 6rem !important;
+
+}
+
+.footer i{
+	color: #fff;
+	padding-right: 3em;
+	padding-left: 2em;
+	padding-top: 1em;
+	font-size: 20px;
+	float: right;
+}
+
+
+.button{
+	background-color: #607D8b !important;
+
+}
+
+h2{
+	font-family: 'Allerta Stencil', sans-serif;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.nav-breadcrumbs{
+	font-family: 'Allerta Stencil', sans-serif;
+}
+
+.breadcrumbs{
+	background-color: #9E9E9E;
+	border-color:#607D8b;
+}
+
+.breadcrumbs * a {
+	color: #607D8b;
+}
+
+
+body{
+	background-color: #9E9E9E;
+}
+
+h1{
+	font-family: 'Allerta Stencil', sans-serif;
+}
+
+ul.pagination li a, ul.pagination li button{
+	color: black !important;
+}
+
+.orbit-container{
+	
+	font-family: 'Allerta Stencil', sans-serif;
+
+}
+
+
+
