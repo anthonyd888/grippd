@@ -1,5 +1,5 @@
 .footer{
-	background-color: #607D8b;
+	background-image: url(../img/footer.jpg);
 	padding: 2em;
 	margin-top: 2em;
 }
@@ -14,7 +14,9 @@
 	font-family: 'Allerta Stencil', sans-serif !important;
 	font-size: 15px;
 	background-color: #607D8b;
+	
 }
+
 
 .footer img{
 	width: 50%;
@@ -53,6 +55,14 @@ h2{
 	font-family: 'Allerta Stencil', sans-serif;
 }
 
+h4{
+	font-family: 'Allerta Stencil', sans-serif;
+}
+
+h5{
+	font-family: 'Allerta Stencil', sans-serif;
+}
+
 p{
 	font-family: 'Open Sans', sans-serif;
 }
@@ -62,17 +72,19 @@ p{
 }
 
 .breadcrumbs{
-	background-color: #9E9E9E;
+	background-color: #BDBDBD;
 	border-color:#607D8b;
+	border-style: none;
 }
 
 .breadcrumbs * a {
 	color: #607D8b;
+	font-size: 15px;
 }
 
 
 body{
-	background-color: #9E9E9E;
+	background-color: #BDBDBD;
 }
 
 h1{
@@ -89,5 +101,19 @@ ul.pagination li a, ul.pagination li button{
 
 }
 
+.hot h1{
+	text-align: center;
+}
 
+.hot{
+	padding-top: 2em;
+}
 
+.top-bar-section li.active:not(.has-form) a:not(.button){
+	background: #BDBDBD;
+
+}
+.top-bar-section li.active:not(.has-form) a:not(.button):hover{
+	background: #607D8b;
+	
+}
