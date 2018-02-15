@@ -101,6 +101,22 @@ ul.pagination li a, ul.pagination li button{
 
 }
 
+aside{
+	padding-top: 3rem;
+}
+
+aside h1{
+	padding-bottom: 1rem;
+}
+
+aside h4{
+	text-align: center;
+}
+
+aside h5{
+	text-align: center;
+}
+
 .hot h1{
 	text-align: center;
 }
