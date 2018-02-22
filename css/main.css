@@ -151,3 +151,22 @@ aside h5{
 	background: #607D8b;
 	
 }
+
+.confirmation .footer{
+	margin-top: 20em;
+}
+
+.confirmation .footer h1{
+	font-family: 'Allerta Stencil', sans-serif;
+	color: #fff;
+	font-size: 20px;
+	float: right;
+}
+
+.confirmation h1 {
+	font-size: 60px;
+}
+
+.confirmation p{
+	font-size: 35px;
+}
